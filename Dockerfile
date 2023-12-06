@@ -1,1 +1,1 @@
-FROM nvidia/cuda:11.0.3-devel-centos7
+FROM rancher/rancher-agent:v2.7.9
